@@ -29,7 +29,7 @@ const activeNavigations = new Map<Entity, NavigationState>();
 /**
  * A* pathfinding navigation system
  */
-export class navigationSystem {
+export class NavigationSystem {
   /**
    * Navigates entity to destination automatically
    */
