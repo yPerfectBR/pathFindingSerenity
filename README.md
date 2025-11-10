@@ -1,7 +1,7 @@
 # pathFindingSerenity
 Simple pathfinding system
 
-https://youtu.be/OL_Dqou_zfo
+https://youtu.be/4qSbqhTEqXs
 
 This system isn’t efficient or performant.
 My goal is to use it on a server with many NPCs that will travel long distances.
